@@ -42,7 +42,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="tudi.jpeg"
+											src="https://media.licdn.com/dms/image/C5603AQEJft-4gclBeA/profile-displayphoto-shrink_800_800/0/1632326085987?e=1710979200&v=beta&t=IHH1ZPuLhDz7sObxi99u_qD_L-7KqJbUvV4iteIEQmo"
 											alt="about"
 											className="homepage-image"
 										/>
