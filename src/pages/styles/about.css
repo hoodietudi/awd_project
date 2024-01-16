@@ -1,0 +1,28 @@
+.about-container {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	margin: 0;
+	padding-top: 120px;
+}
+
+.about-main {
+	display: flex;
+}
+
+.about-right-side {
+	flex-basis: 900px;
+}
+
+.about-title {
+	width: 100% !important;
+}
+
+.education-section,
+.employment-section {
+	margin-bottom: 30px;
+}
+
+p {
+	margin-bottom: 10px;
+}

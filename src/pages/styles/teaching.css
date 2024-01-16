@@ -1,0 +1,19 @@
+.teaching-container {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	margin: 0;
+	padding-top: 120px;
+}
+
+.teaching-main {
+	display: flex;
+}
+
+.teaching-right-side {
+	flex-basis: 900px;
+}
+
+.teaching-title {
+	width: 100% !important;
+}
