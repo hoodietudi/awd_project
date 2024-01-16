@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valeanu/static/css/main.27dd0741.css",
+    "main.js": "/valeanu/static/js/main.d54aa238.js",
+    "static/js/787.6a61aaa8.chunk.js": "/valeanu/static/js/787.6a61aaa8.chunk.js",
+    "index.html": "/valeanu/index.html",
+    "main.27dd0741.css.map": "/valeanu/static/css/main.27dd0741.css.map",
+    "main.d54aa238.js.map": "/valeanu/static/js/main.d54aa238.js.map",
+    "787.6a61aaa8.chunk.js.map": "/valeanu/static/js/787.6a61aaa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27dd0741.css",
+    "static/js/main.d54aa238.js"
+  ]
+}
